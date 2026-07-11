@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -156,7 +156,7 @@
                     <h3 class="text-2xl font-bold mb-4">Need Immediate Assistance?</h3>
                     <p class="text-blue-200 mb-6">If your factory motor or water pump went down unexpectedly, don't worry. Call our emergency hotline for quick drop-off or on-site analysis.</p>
                     <a href="tel:+919876543210" class="inline-block bg-white text-blue-900 font-bold px-6 py-3 rounded-lg hover:bg-orange-500 hover:text-white transition shadow-md">
-                        <i class="fas fa-phone mr-2"></i>+91 98765 43210
+                        <i class="fas fa-phone mr-2"></i>+91 7666696597
                     </a>
                 </div>
             </div>
