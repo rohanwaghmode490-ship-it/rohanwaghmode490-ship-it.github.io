@@ -267,4 +267,4 @@
                     <i class="fas fa-microchip text-3xl mb-2 text-orange-500"></i>
                     <span class="font-medium text-xs sm:text-sm text-slate-700 group-hover:text-white">Stator Rewinding</span>
                 </div>
-                <div class="bg-slate-100 aspect-square rounded-xl flex flex-col justify-center items-
+                
